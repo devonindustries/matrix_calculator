@@ -1,0 +1,8 @@
+README.md
+setup.py
+mat_calc/Matrix_Calculator.py
+mat_calc/__init__.py
+mat_calc_devonindustries.egg-info/PKG-INFO
+mat_calc_devonindustries.egg-info/SOURCES.txt
+mat_calc_devonindustries.egg-info/dependency_links.txt
+mat_calc_devonindustries.egg-info/top_level.txt
